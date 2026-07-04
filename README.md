@@ -1,8 +1,8 @@
 # Java DSA Practice
 
-A structured collection of Java solutions for Data Structures and Algorithms practice, focused on improving problem-solving ability for coding interviews.
+A structured collection of my LeetCode solutions in Java, focused on interview patterns, clean problem-solving, and time/space complexity analysis.
 
-This repository contains my accepted LeetCode submissions, organized by problem. Each folder includes the solution file and, where available, the generated problem statement/notes.
+This repository tracks my DSA preparation for software engineering interviews, with problems grouped by topic and pattern instead of only by problem number.
 
 ## Why this repository exists
 
