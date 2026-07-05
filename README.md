@@ -91,3 +91,23 @@ The focus areas are:
 This repository reflects my ongoing preparation in core problem-solving and Java fundamentals. It complements my project repositories by showing consistency in DSA practice, algorithmic thinking, and comfort with common coding interview patterns.
 
 For full-stack and software engineering projects, please also check my main project repositories.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+<!---LeetCode Topics End-->
