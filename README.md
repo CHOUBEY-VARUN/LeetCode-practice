@@ -97,16 +97,19 @@ For full-stack and software engineering projects, please also check my main proj
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
@@ -118,9 +121,14 @@ For full-stack and software engineering projects, please also check my main proj
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
