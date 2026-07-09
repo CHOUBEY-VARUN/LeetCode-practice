@@ -99,6 +99,7 @@ For full-stack and software engineering projects, please also check my main proj
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0207-course-schedule/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -107,6 +108,7 @@ For full-stack and software engineering projects, please also check my main proj
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0207-course-schedule/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -120,6 +122,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0547-number-of-provinces/) | Medium |
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -139,4 +142,8 @@ For full-stack and software engineering projects, please also check my main proj
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
