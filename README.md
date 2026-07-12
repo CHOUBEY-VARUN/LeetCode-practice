@@ -146,4 +146,16 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0207-course-schedule/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0070-climbing-stairs/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
