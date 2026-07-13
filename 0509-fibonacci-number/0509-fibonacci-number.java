@@ -1,18 +1,13 @@
 class Solution {
     public int fib(int n) {
-        Map<Integer,Integer> memo = new HashMap<>();
-        return result(n,memo);
-    }
-
-    public int result(int n, Map<Integer,Integer> memo){
         if(n<=1)return n;
-
-        if(memo.containsKey(n)){
-            return memo.get(n);
+        int[] seq = new int[n+1];
+        seq[0] = 0;
+        seq[1] = 1;
+        for(int i = 2; i<=n; i++){
+            seq[i] = seq[i-1]+seq[i-2];
         }
 
-        int ans = result(n-1,memo) + result(n-2,memo);
-        memo.put(n,ans);
-        return ans;
+        return seq[n];
     }
 }
