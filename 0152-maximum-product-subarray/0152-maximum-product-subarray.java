@@ -1,21 +1,28 @@
 class Solution {
-    private int max = Integer.MIN_VALUE;
-
     public int maxProduct(int[] nums) {
-        search(nums,0);
-        return max;
-    }
+        int maxEnd = nums[0];
+        int minEnd = nums[0];
+        int result = nums[0];
 
-    public void search(int[] nums,int left){
-        if(left == nums.length-1) max = Math.max(max,nums[left]);
-        if(left>nums.length -1) return;
+        for(int i = 1; i<nums.length; i++){
+            int current = nums[i];
+            int maxPrev = maxEnd;
+            int minPrev = minEnd;
+            
+            maxEnd = Math.max(
+                current, Math.max(
+                    maxPrev*current, minPrev*current
+                )
+            );
 
-        int prod = 1;
-        for(int i = left; i<nums.length; i++){
-            prod = prod*nums[i];
-            max = Math.max(max,prod);
+            minEnd = Math.min(
+                current, Math.min(
+                    maxPrev*current, minPrev*current
+                )
+            );
+
+            result = Math.max(result,maxEnd);
         }
-
-        search(nums,left+1);
+        return result;
     }
 }
