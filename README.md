@@ -135,6 +135,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0198-house-robber](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
@@ -168,6 +169,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0152-maximum-product-subarray](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -194,4 +196,8 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
