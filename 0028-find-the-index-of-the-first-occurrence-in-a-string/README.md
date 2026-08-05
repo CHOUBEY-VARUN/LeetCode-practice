@@ -22,6 +22,6 @@ The first occurrence is at index 0, so we return 0.
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= haystack.length, needle.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= haystack.length, needle.length &lt;= 10<sup>4</sup></code> </li>
 	<li><code>haystack</code> and <code>needle</code> consist of only lowercase English characters.</li>
 </ul>
