@@ -7,7 +7,7 @@ class Solution {
         for(int i = 1; i<intervals.length; i++){
             if(intervals[i][0] < current[1]){
                 result++;
-                current = new int[]{(Math.min(intervals[i][0],current[0])), (Math.min(intervals[i][1],current[1]))};
+                current = intervals[i][1] <= current[1]? intervals[i] : current;
             }else{
                 current = intervals[i];
             }
