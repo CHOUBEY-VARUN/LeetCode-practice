@@ -130,6 +130,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0056-merge-intervals/) | Medium |
@@ -153,6 +154,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0048-rotate-image/) | Medium |
 | [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 ## Topological Sort
@@ -162,6 +164,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0509-fibonacci-number/) | Easy |
