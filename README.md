@@ -132,6 +132,7 @@ For full-stack and software engineering projects, please also check my main proj
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0057-insert-interval/) | Medium |
@@ -157,6 +158,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 ## Topological Sort
@@ -262,4 +264,8 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0056-merge-intervals/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
