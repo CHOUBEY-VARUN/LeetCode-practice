@@ -137,6 +137,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0056-merge-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0136-single-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0198-house-robber/) | Medium |
@@ -275,5 +276,6 @@ For full-stack and software engineering projects, please also check my main proj
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
