@@ -191,6 +191,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0213-house-robber-ii](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0322-coin-change/) | Medium |
+| [0338-counting-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0509-fibonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -278,4 +279,5 @@ For full-stack and software engineering projects, please also check my main proj
 | ------- | ------- |
 | [0136-single-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0191-number-of-1-bits/) | Easy |
+| [0338-counting-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
