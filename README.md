@@ -238,6 +238,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0053-maximum-subarray/) | Medium |
+| [0190-reverse-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0191-number-of-1-bits/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -278,6 +279,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
