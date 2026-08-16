@@ -143,6 +143,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0198-house-robber](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0213-house-robber-ii/) | Medium |
+| [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -155,6 +156,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0073-set-matrix-zeroes](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0133-clone-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
+| [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Matrix
@@ -175,6 +177,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0048-rotate-image](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0070-climbing-stairs/) | Easy |
+| [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -225,6 +228,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -265,6 +269,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0056-merge-intervals/) | Medium |
+| [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Quicksort
@@ -281,5 +286,6 @@ For full-stack and software engineering projects, please also check my main proj
 | [0136-single-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
