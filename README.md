@@ -208,6 +208,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -290,4 +291,8 @@ For full-stack and software engineering projects, please also check my main proj
 | [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0371-sum-of-two-integers/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
