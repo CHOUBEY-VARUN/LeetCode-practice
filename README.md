@@ -216,6 +216,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0141-linked-list-cycle](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -299,6 +300,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0206-reverse-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
