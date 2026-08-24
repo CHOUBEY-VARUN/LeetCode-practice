@@ -139,6 +139,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0056-merge-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -194,6 +195,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0062-unique-paths](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0091-decode-ways/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0198-house-robber/) | Medium |
