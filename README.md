@@ -155,6 +155,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0435-non-overlapping-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +167,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
