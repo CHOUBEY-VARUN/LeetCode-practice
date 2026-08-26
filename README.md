@@ -230,6 +230,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0042-trapping-rain-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +291,7 @@ For full-stack and software engineering projects, please also check my main proj
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0056-merge-intervals/) | Medium |
 | [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Quicksort
@@ -340,6 +342,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,4 +351,12 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0239-sliding-window-maximum/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
