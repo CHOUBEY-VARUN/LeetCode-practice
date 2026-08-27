@@ -102,6 +102,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -370,10 +371,24 @@ For full-stack and software engineering projects, please also check my main proj
 | [0102-binary-tree-level-order-traversal](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
