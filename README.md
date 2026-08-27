@@ -108,6 +108,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
@@ -366,11 +367,13 @@ For full-stack and software engineering projects, please also check my main proj
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
