@@ -97,6 +97,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0133-clone-graph/) | Medium |
@@ -372,6 +373,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -381,6 +383,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -390,6 +393,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
