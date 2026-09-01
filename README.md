@@ -239,6 +239,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0042-trapping-rain-water/) | Hard |
+| [0125-valid-palindrome](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -249,6 +250,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0076-minimum-window-substring](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0091-decode-ways/) | Medium |
+| [0125-valid-palindrome](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Trie
