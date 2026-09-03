@@ -144,6 +144,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0055-jump-game/) | Medium |
@@ -170,6 +171,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0076-minimum-window-substring/) | Hard |
 | [0133-clone-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0133-clone-graph/) | Medium |
@@ -249,6 +251,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0005-longest-palindromic-substring](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0125-valid-palindrome/) | Easy |
@@ -304,6 +307,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0056-merge-intervals/) | Medium |
 | [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0295-find-median-from-data-stream/) | Hard |
