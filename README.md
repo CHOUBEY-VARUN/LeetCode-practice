@@ -141,6 +141,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0048-rotate-image/) | Medium |
@@ -241,6 +242,7 @@ For full-stack and software engineering projects, please also check my main proj
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0125-valid-palindrome/) | Easy |
