@@ -204,6 +204,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0070-climbing-stairs](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0412-fizz-buzz](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -260,6 +261,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0091-decode-ways](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
+| [0412-fizz-buzz](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0412-fizz-buzz/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -327,6 +329,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0054-spiral-matrix/) | Medium |
+| [0412-fizz-buzz](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0412-fizz-buzz/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
