@@ -153,6 +153,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0056-merge-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
@@ -191,6 +192,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0048-rotate-image](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 ## Topological Sort
@@ -273,6 +275,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0300-longest-increasing-subsequence/) | Medium |
