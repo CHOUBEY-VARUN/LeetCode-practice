@@ -110,6 +110,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0547-number-of-provinces](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,6 +407,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +419,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
