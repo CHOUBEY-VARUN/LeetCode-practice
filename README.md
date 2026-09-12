@@ -178,6 +178,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0076-minimum-window-substring/) | Hard |
@@ -206,6 +207,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0070-climbing-stairs/) | Easy |
@@ -263,6 +265,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0049-group-anagrams/) | Medium |
