@@ -171,6 +171,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0347-top-k-frequent-elements](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0953-verifying-an-alien-dictionary](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -187,6 +188,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0141-linked-list-cycle](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0141-linked-list-cycle/) | Easy |
 | [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0953-verifying-an-alien-dictionary](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -274,6 +276,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0125-valid-palindrome](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
 | [0412-fizz-buzz](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0412-fizz-buzz/) | Easy |
+| [0953-verifying-an-alien-dictionary](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
