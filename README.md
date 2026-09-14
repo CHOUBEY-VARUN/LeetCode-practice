@@ -217,6 +217,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0371-sum-of-two-integers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0509-fibonacci-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0836-rectangle-overlap/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -472,4 +473,8 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
