@@ -218,6 +218,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0412-fizz-buzz](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0836-rectangle-overlap/) | Easy |
+| [3870-count-commas-in-range](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
