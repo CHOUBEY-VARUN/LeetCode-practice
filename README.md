@@ -142,6 +142,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -257,6 +258,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -311,6 +313,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0055-jump-game/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## String Matching
