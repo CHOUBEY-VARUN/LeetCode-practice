@@ -284,6 +284,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0412-fizz-buzz](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0412-fizz-buzz/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -354,6 +355,7 @@ For full-stack and software engineering projects, please also check my main proj
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0412-fizz-buzz/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
