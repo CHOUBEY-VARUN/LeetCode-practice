@@ -172,6 +172,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0347-top-k-frequent-elements](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -218,6 +219,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0371-sum-of-two-integers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -346,6 +348,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0295-find-median-from-data-stream](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Quicksort
