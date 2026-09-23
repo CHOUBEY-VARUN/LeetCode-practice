@@ -143,6 +143,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -277,6 +278,7 @@ For full-stack and software engineering projects, please also check my main proj
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0049-group-anagrams/) | Medium |
@@ -291,6 +293,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
