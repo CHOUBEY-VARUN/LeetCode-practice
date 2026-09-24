@@ -178,6 +178,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -224,6 +225,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0836-rectangle-overlap](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
