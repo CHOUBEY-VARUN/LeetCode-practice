@@ -177,6 +177,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0628-maximum-product-of-three-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -328,6 +329,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0011-container-with-most-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0055-jump-game/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,6 +359,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0347-top-k-frequent-elements](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Quicksort
