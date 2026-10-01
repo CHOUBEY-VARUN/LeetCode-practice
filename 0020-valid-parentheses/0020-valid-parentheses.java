@@ -1,36 +1,19 @@
 class Solution {
     public boolean isValid(String s) {
-        Deque<Character> q = new ArrayDeque<>();
-        for(int i = 0; i<s.length(); i++){
-            char c = s.charAt(i);
+        Deque<Character> stack = new ArrayDeque<>();
+        for(char c : s.toCharArray()){
             if(c == '(' || c == '{' || c == '['){
-                q.addLast(c);
+                stack.push(c);
             }else if(c == ')'){
-                if(!q.isEmpty() && q.peekLast() == '('){
-                    q.removeLast();
-                }else{
-                    return false;
-                }
-            }else if(c == ']'){
-                if(!q.isEmpty() && q.peekLast() == '['){
-                    q.removeLast();
-                }else{
-                    return false;
-                }
-
+                if((!stack.isEmpty())&&(stack.peek() == '(')){stack.poll();}else{stack.push(c);}
             }else if(c == '}'){
-                if(!q.isEmpty() && q.peekLast() == '{'){
-                    q.removeLast();
-                }else{
-                    return false;
-                }
+                if((!stack.isEmpty())&&(stack.peek() == '{')){stack.poll();}else{stack.push(c);}
+            }else if(c == ']'){
+                if((!stack.isEmpty())&&(stack.peek() == '[')){stack.poll();}else{stack.push(c);}
+            }else{
+                stack.push(c);
             }
         }
-
-        if(q.isEmpty()){
-            return true;
-        }else{
-            return false;
-        }
+        return stack.isEmpty();
     }
 }
