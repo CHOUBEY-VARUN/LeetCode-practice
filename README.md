@@ -97,6 +97,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -157,6 +158,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0057-insert-interval](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
@@ -207,6 +209,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0054-spiral-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 ## Topological Sort
@@ -288,6 +291,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
@@ -512,4 +516,8 @@ For full-stack and software engineering projects, please also check my main proj
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
