@@ -254,6 +254,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0338-counting-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -296,6 +297,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0125-valid-palindrome](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
 | [0412-fizz-buzz](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0412-fizz-buzz/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -336,6 +338,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0011-container-with-most-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0055-jump-game/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -404,6 +407,7 @@ For full-stack and software engineering projects, please also check my main proj
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0042-trapping-rain-water/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
@@ -488,6 +492,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bucket Sort
