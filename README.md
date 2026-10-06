@@ -299,6 +299,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0412-fizz-buzz](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0412-fizz-buzz/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -340,6 +341,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0055-jump-game](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0055-jump-game/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -410,6 +412,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0042-trapping-rain-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0042-trapping-rain-water/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
@@ -496,6 +499,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0020-valid-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bucket Sort
