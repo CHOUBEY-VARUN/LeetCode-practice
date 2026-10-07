@@ -143,6 +143,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0015-3sum/) | Medium |
@@ -188,6 +189,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0073-set-matrix-zeroes/) | Medium |
