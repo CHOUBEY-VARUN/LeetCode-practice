@@ -197,6 +197,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0133-clone-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0141-linked-list-cycle/) | Easy |
+| [0242-valid-anagram](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -298,6 +299,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0091-decode-ways](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
+| [0242-valid-anagram](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0412-fizz-buzz/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0856-score-of-parentheses/) | Medium |
@@ -369,6 +371,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0049-group-anagrams](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0347-top-k-frequent-elements/) | Medium |
