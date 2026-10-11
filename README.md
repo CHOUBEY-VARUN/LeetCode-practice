@@ -183,6 +183,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -533,6 +534,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
