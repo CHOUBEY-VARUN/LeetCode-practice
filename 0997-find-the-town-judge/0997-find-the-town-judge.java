@@ -1,19 +1,18 @@
 class Solution {
     public int findJudge(int n, int[][] trust) {
-        int [] score = new int[n+1];
+        if(n==1 && trust.length == 0)return 1;
+        Map<Integer,Integer> map = new HashMap<>();
 
-        for(int[] edge : trust){
-            int u = edge[0];
-            int v = edge[1];
-
-            score[u]--;
-            score[v]++;
+        for(int i = 0; i<trust.length; i++){
+            int a = trust[i][0];
+            int b = trust[i][1];
+            map.put(a,map.getOrDefault(a,0)-1);
+            map.put(b,map.getOrDefault(b,0)+1);
         }
 
-        for(int i = 1; i <= n; i++){
-            if(score[i] == n-1)return i;
+        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
+            if(entry.getValue() == n-1){return entry.getKey();}
         }
-
         return -1;
     }
 }
