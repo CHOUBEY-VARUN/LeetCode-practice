@@ -205,6 +205,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0953-verifying-an-alien-dictionary](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0997-find-the-town-judge](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0997-find-the-town-judge/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Matrix
@@ -313,6 +314,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [1143-longest-common-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
