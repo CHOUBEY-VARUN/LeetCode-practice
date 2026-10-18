@@ -166,6 +166,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0213-house-robber-ii/) | Medium |
@@ -199,6 +200,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0133-clone-graph](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -341,6 +343,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -378,6 +381,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0049-group-anagrams](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0268-missing-number/) | Easy |
@@ -524,6 +528,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -548,4 +553,8 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0079-word-search/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
