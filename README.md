@@ -194,6 +194,7 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -295,6 +296,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0014-longest-common-prefix/) | Easy |
@@ -447,6 +449,7 @@ For full-stack and software engineering projects, please also check my main proj
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Heap (Priority Queue)
