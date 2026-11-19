@@ -241,6 +241,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0628-maximum-product-of-three-numbers](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [2409-count-days-spent-together](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2409-count-days-spent-together/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -320,6 +321,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [1143-longest-common-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2409-count-days-spent-together](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2409-count-days-spent-together/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
