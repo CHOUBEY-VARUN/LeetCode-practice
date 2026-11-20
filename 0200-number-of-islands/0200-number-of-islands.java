@@ -6,7 +6,7 @@ class Solution {
         for(int i = 0; i<grid.length; i++){
             for(int j = 0; j<grid[0].length; j++){
                 if(grid[i][j] == '1' && !visited[i][j]){
-                    check(i,j,grid,visited,count);
+                    check(i,j,grid,visited);
                     count++;
                 }
             }
@@ -14,17 +14,17 @@ class Solution {
         return count;
     }
 
-    public void check(int i, int j, char[][] grid, boolean[][] visited, int count){
+    public void check(int i, int j, char[][] grid, boolean[][] visited){
         if((i < 0) || (j < 0) || (i >= grid.length) || (j >= grid[0].length) || (grid[i][j] == '0') || (visited[i][j])){
             return;
         }
 
         char curr = grid[i][j];
         visited[i][j] = true;
-        check(i+1,j,grid,visited,count);
-        check(i-1,j,grid,visited,count);
-        check(i,j+1,grid,visited,count);
-        check(i,j-1,grid,visited,count);
+        check(i+1,j,grid,visited);
+        check(i-1,j,grid,visited);
+        check(i,j+1,grid,visited);
+        check(i,j-1,grid,visited);
         return;
     }
 }
