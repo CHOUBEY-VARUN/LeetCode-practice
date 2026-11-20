@@ -1,28 +1,30 @@
 class Solution {
     public int numIslands(char[][] grid) {
-        int islands = 0;
         boolean[][] visited = new boolean[grid.length][grid[0].length];
-        for(int row = 0; row<grid.length; row++){
-            for(int col = 0; col<grid[0].length; col++){
-                if((grid[row][col] == '1') && !visited[row][col]){
-                    islands++;
-                    visit(grid,visited,row,col);
+        int count = 0;
+
+        for(int i = 0; i<grid.length; i++){
+            for(int j = 0; j<grid[0].length; j++){
+                if(grid[i][j] == '1' && !visited[i][j]){
+                    check(i,j,grid,visited,count);
+                    count++;
                 }
             }
         }
-        return islands;
+        return count;
     }
 
-    public void visit(char[][] grid, boolean[][] visited, int row, int col){
-        if(row<0 || col <0 || row>=grid.length || col>=grid[0].length || grid[row][col] == '0' || visited[row][col] == true)return;
+    public void check(int i, int j, char[][] grid, boolean[][] visited, int count){
+        if((i < 0) || (j < 0) || (i >= grid.length) || (j >= grid[0].length) || (grid[i][j] == '0') || (visited[i][j])){
+            return;
+        }
 
-        visited[row][col] = true;
-
-        visit(grid,visited,row+1,col);
-        visit(grid,visited,row-1,col);
-        visit(grid,visited,row,col+1);
-        visit(grid,visited,row,col-1);
-
+        char curr = grid[i][j];
+        visited[i][j] = true;
+        check(i+1,j,grid,visited,count);
+        check(i-1,j,grid,visited,count);
+        check(i,j+1,grid,visited,count);
+        check(i,j-1,grid,visited,count);
         return;
     }
 }
