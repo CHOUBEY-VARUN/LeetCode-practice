@@ -567,4 +567,8 @@ For full-stack and software engineering projects, please also check my main proj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0169-majority-element/) | Easy |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
