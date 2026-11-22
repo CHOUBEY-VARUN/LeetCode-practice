@@ -321,6 +321,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [1143-longest-common-subsequence](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2409-count-days-spent-together](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2409-count-days-spent-together/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3498-reverse-degree-of-a-string/) | Easy |
