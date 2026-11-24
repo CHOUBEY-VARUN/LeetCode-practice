@@ -1,37 +1,42 @@
 class Solution {
     public List<List<Integer>> pacificAtlantic(int[][] heights) {
-        boolean[][] pacificVisited = new boolean[heights.length][heights[0].length];
-        boolean[][] atlanticVisited = new boolean[heights.length][heights[0].length];
-        for(int row = 0; row<heights.length; row++){
-            visit(row,0,heights,pacificVisited,heights[row][0]);
-            visit(row,heights[0].length-1,heights,atlanticVisited,heights[row][heights[0].length-1]);
+        boolean[][] pacific = new boolean[heights.length][heights[0].length];
+        boolean[][] atlantic = new boolean[heights.length][heights[0].length];
+
+        for(int i = 0;i<heights[0].length;i++){
+            travel(heights,0,i,pacific);
         }
-        for(int col = 0; col<heights[0].length; col++){
-            visit(0,col,heights,pacificVisited,heights[0][col]);
-            visit(heights.length-1,col,heights,atlanticVisited,heights[heights.length-1][col]);
+        for(int i = 0;i<heights.length;i++){
+            travel(heights,i,0,pacific);
+        }
+        for(int i = heights.length-1;i>=0;i--){
+            travel(heights,i,heights[0].length-1,atlantic);
+        }
+        for(int i = heights[0].length-1;i>=0;i--){
+            travel(heights,heights.length-1,i,atlantic);
         }
 
         List<List<Integer>> result = new ArrayList<>();
-        for(int row = 0; row<heights.length; row++){
-            for(int col = 0; col<heights[0].length; col++){
-                if(pacificVisited[row][col] && atlanticVisited[row][col]){
-                    result.add(Arrays.asList(row,col));
+        for(int i = 0; i<heights.length;i++){
+            for(int j = 0; j<heights[0].length; j++){
+                if(pacific[i][j] && atlantic[i][j]){
+                    result.add(Arrays.asList(i,j));
                 }
             }
         }
         return result;
     }
 
-    public void visit(int row, int col, int[][] heights,boolean[][] visited,int prev){
-        if(row<0 || row>=heights.length || col<0 || col>=heights[0].length || heights[row][col] < prev || visited[row][col])return;
-    
-        
-        int next = heights[row][col];
-        visited[row][col] = true;
-        
-        visit(row+1,col,heights,visited,next);
-        visit(row-1,col,heights,visited,next);
-        visit(row,col+1,heights,visited,next);
-        visit(row,col-1,heights,visited,next);
+    public void travel(int[][] heights, int r, int c, boolean[][] visited){
+        if((r < 0)||(r>=heights.length)||(c<0)||(c>=heights[0].length))return;
+        if(visited[r][c])return;
+        visited[r][c] = true;
+
+        if((r-1 >= 0)&&(heights[r-1][c] >= heights[r][c])){travel(heights,r-1,c,visited);}
+        if((c-1 >= 0)&&(heights[r][c-1] >= heights[r][c])){travel(heights,r,c-1,visited);}
+        if((r+1 < heights.length)&&(heights[r+1][c] >= heights[r][c])){travel(heights,r+1,c,visited);}
+        if((c+1 < heights[0].length)&&(heights[r][c+1] >= heights[r][c])){travel(heights,r,c+1,visited);}
+
+        return;
     }
 }
