@@ -78,6 +78,12 @@ Most solutions follow this structure:
 ## Progress
 
 <!-- LEETCODE_PROGRESS_START -->
+## LeetCode Progress
+
+**130 problems solved** and counting.
+
+[View all solutions](https://github.com/CHOUBEY-VARUN/LeetCode-practice)
+
 <!-- LEETCODE_PROGRESS_END -->
 
 This repository is continuously updated as I solve and revise more problems.
