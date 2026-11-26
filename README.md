@@ -80,10 +80,12 @@ Most solutions follow this structure:
 <!-- LEETCODE_PROGRESS_START -->
 ## LeetCode Progress
 
-**130 problems solved** and counting.
+| Metric | Count | Meaning |
+| --- | ---: | --- |
+| [LeetCode profile](https://leetcode.com/u/VarunCode21/) | 180 | Total solved on my public LeetCode profile |
+| [Documented in this repository](https://github.com/CHOUBEY-VARUN/LeetCode-practice) | 181 | Problems with committed Java solutions |
 
-[View all solutions](https://github.com/CHOUBEY-VARUN/LeetCode-practice)
-
+Last successful update: 2026-11-26 13:39:18 (UTC)
 <!-- LEETCODE_PROGRESS_END -->
 
 This repository is continuously updated as I solve and revise more problems.
