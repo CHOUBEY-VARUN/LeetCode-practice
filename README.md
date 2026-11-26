@@ -82,10 +82,13 @@ Most solutions follow this structure:
 
 | Metric | Count | Meaning |
 | --- | ---: | --- |
-| [LeetCode profile](https://leetcode.com/u/VarunCode21/) | 180 | Total solved on my public LeetCode profile |
-| [Documented in this repository](https://github.com/CHOUBEY-VARUN/LeetCode-practice) | 181 | Problems with committed Java solutions |
+| **LeetCode profile** | **180** | Total solved problems on [my LeetCode profile](https://leetcode.com/u/VarunCode21/). |
+| **Documented solutions** | **227** | Problems with a committed Java solution in this repository. |
 
-Last successful update: 2026-11-26 13:39:18 (UTC)
+*Last updated: 2026-11-26 13:43 UTC*
+
+[View all documented solutions](https://github.com/CHOUBEY-VARUN/LeetCode-practice)
+
 <!-- LEETCODE_PROGRESS_END -->
 
 This repository is continuously updated as I solve and revise more problems.
