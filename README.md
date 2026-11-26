@@ -242,6 +242,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0836-rectangle-overlap](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2409-count-days-spent-together](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -412,6 +413,7 @@ For full-stack and software engineering projects, please also check my main proj
 | [0054-spiral-matrix](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/0412-fizz-buzz/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/CHOUBEY-VARUN/LeetCode-Grind/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
