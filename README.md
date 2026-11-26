@@ -77,6 +77,9 @@ Most solutions follow this structure:
 
 ## Progress
 
+<!-- LEETCODE_PROGRESS_START -->
+<!-- LEETCODE_PROGRESS_END -->
+
 This repository is continuously updated as I solve and revise more problems.
 
 The focus areas are:
