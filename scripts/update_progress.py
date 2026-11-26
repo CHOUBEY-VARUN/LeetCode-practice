@@ -1,159 +1,168 @@
-#!/usr/bin/env python3
-"""Update the repository's LeetCode progress section from the public profile."""
 
-from datetime import datetime, timezone
 import json
-from pathlib import Path
 import re
 import sys
-from urllib.error import HTTPError, URLError
+from datetime import datetime, timezone
+from pathlib import Path
 from urllib.request import Request, urlopen
+from urllib.error import HTTPError, URLError
 
+# Repository configuration
 ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
-USERNAME = "VarunCode21"
-GRAPHQL_URL = "https://leetcode.com/graphql"
-PROFILE_URL = f"https://leetcode.com/u/{USERNAME}/"
-REPOSITORY_URL = "https://github.com/CHOUBEY-VARUN/LeetCode-practice"
-START = "<!-- LEETCODE_PROGRESS_START -->"
-END = "<!-- LEETCODE_PROGRESS_END -->"
-TIMEOUT_SECONDS = 20
 
-QUERY = """
-query userProblemsSolved($username: String!) {
-  matchedUser(username: $username) {
-    submitStats {
-      acSubmissionNum {
-        difficulty
-        count
-      }
+LEETCODE_USERNAME = "VarunCode21"
+
+START_MARKER = "<!-- LEETCODE_PROGRESS_START -->"
+END_MARKER = "<!-- LEETCODE_PROGRESS_END -->"
+
+
+def fetch_leetcode_total():
+    """Fetch the total number of solved problems from LeetCode."""
+
+    query = """
+    query userProgress($username: String!) {
+        matchedUser(username: $username) {
+            submitStats {
+                acSubmissionNum {
+                    difficulty
+                    count
+                }
+            }
+        }
     }
-  }
-}
-"""
+    """
 
+    variables = {
+        "username": LEETCODE_USERNAME
+    }
 
-class ProgressFetchError(Exception):
-    """Raised when the public profile cannot provide a reliable solved count."""
+    payload = {
+        "query": query,
+        "variables": variables
+    }
 
-
-def fetch_profile_solved_count():
-    payload = json.dumps(
-        {"query": QUERY, "variables": {"username": USERNAME}}
-    ).encode("utf-8")
     request = Request(
-        GRAPHQL_URL,
-        data=payload,
+        "https://leetcode.com/graphql",
+        data=json.dumps(payload).encode("utf-8"),
         headers={
             "Content-Type": "application/json",
-            "User-Agent": "LeetCode-Progress-Tracker/1.0 (GitHub Actions)",
-            "Referer": PROFILE_URL,
+            "User-Agent": "Mozilla/5.0",
+            "Referer": f"https://leetcode.com/{LEETCODE_USERNAME}/"
         },
-        method="POST",
+        method="POST"
     )
 
     try:
-        with urlopen(request, timeout=TIMEOUT_SECONDS) as response:
-            if response.status < 200 or response.status >= 300:
-                raise ProgressFetchError(
-                    f"LeetCode returned HTTP status {response.status}."
-                )
+        with urlopen(request, timeout=30) as response:
             data = json.loads(response.read().decode("utf-8"))
-    except HTTPError as error:
-        raise ProgressFetchError(f"LeetCode returned HTTP {error.code}.") from error
-    except (URLError, TimeoutError, OSError) as error:
-        raise ProgressFetchError(f"Could not reach LeetCode: {error}") from error
-    except (UnicodeDecodeError, json.JSONDecodeError) as error:
-        raise ProgressFetchError("LeetCode returned invalid JSON.") from error
 
-    if not isinstance(data, dict):
-        raise ProgressFetchError("LeetCode returned an unexpected response.")
-    if data.get("errors"):
-        raise ProgressFetchError("LeetCode GraphQL returned an error.")
+        user = data.get("data", {}).get("matchedUser")
 
-    matched_user = (data.get("data") or {}).get("matchedUser")
-    if not isinstance(matched_user, dict):
-        raise ProgressFetchError(f"LeetCode profile '{USERNAME}' was not found.")
+        if not user:
+            raise RuntimeError("LeetCode profile was not found.")
 
-    submissions = (
-        (matched_user.get("submitStats") or {}).get("acSubmissionNum")
-    )
-    if not isinstance(submissions, list):
-        raise ProgressFetchError("LeetCode solved-count data is missing.")
+        counts = user["submitStats"]["acSubmissionNum"]
 
-    for entry in submissions:
-        if isinstance(entry, dict) and entry.get("difficulty") == "All":
-            count = entry.get("count")
-            if isinstance(count, int) and not isinstance(count, bool) and count >= 0:
-                return count
-            raise ProgressFetchError("LeetCode's total solved count is invalid.")
+        for item in counts:
+            if item["difficulty"] == "All":
+                return item["count"]
 
-    raise ProgressFetchError("LeetCode's total solved count is missing.")
+        raise RuntimeError("Total solved count was missing.")
+
+    except (HTTPError, URLError, TimeoutError, json.JSONDecodeError) as error:
+        raise RuntimeError(
+            f"Could not fetch LeetCode progress: {error}"
+        ) from error
 
 
-def count_documented_problems():
-    """Count distinct numbered problem IDs with at least one Java source file."""
-    folder_pattern = re.compile(r"^(\d+)-.+$")
-    problem_ids = set()
+def count_documented_solutions():
+    """Count problem folders containing at least one Java file."""
+
+    count = 0
 
     for folder in ROOT.iterdir():
-        match = folder_pattern.match(folder.name)
-        if folder.is_dir() and match and any(folder.glob("*.java")):
-            problem_ids.add(int(match.group(1)))
 
-    return len(problem_ids)
+        if not folder.is_dir():
+            continue
+
+        if not re.match(r"^\d{1,5}-.+", folder.name):
+            continue
+
+        java_files = list(folder.glob("*.java"))
+
+        if java_files:
+            count += 1
+
+    return count
 
 
-def render_section(profile_count, repository_count, updated_at):
-    return f"""\n## LeetCode Progress
+def update_readme(leetcode_total, documented_total):
+    """Replace only the progress section in README.md."""
+
+    readme = README.read_text(encoding="utf-8")
+
+    if readme.count(START_MARKER) != 1:
+        raise RuntimeError("Start marker missing or duplicated.")
+
+    if readme.count(END_MARKER) != 1:
+        raise RuntimeError("End marker missing or duplicated.")
+
+    updated_at = datetime.now(timezone.utc).strftime(
+        "%Y-%m-%d %H:%M UTC"
+    )
+
+    new_section = f"""<!-- LEETCODE_PROGRESS_START -->
+## LeetCode Progress
 
 | Metric | Count | Meaning |
 | --- | ---: | --- |
-| [LeetCode profile]({PROFILE_URL}) | {profile_count} | Total solved on my public LeetCode profile |
-| [Documented in this repository]({REPOSITORY_URL}) | {repository_count} | Problems with committed Java solutions |
+| **LeetCode profile** | **{leetcode_total}** | Total solved problems on [my LeetCode profile](https://leetcode.com/u/{LEETCODE_USERNAME}/). |
+| **Documented solutions** | **{documented_total}** | Problems with a committed Java solution in this repository. |
 
-Last successful update: {updated_at} (UTC)
-"""
+*Last updated: {updated_at}*
 
+[View all documented solutions](https://github.com/CHOUBEY-VARUN/LeetCode-practice)
 
-def update_readme(profile_count, repository_count):
-    readme = README.read_text(encoding="utf-8")
-    if readme.count(START) != 1 or readme.count(END) != 1:
-        raise ValueError("README progress markers are missing or duplicated.")
+<!-- LEETCODE_PROGRESS_END -->"""
 
-    start = readme.index(START) + len(START)
-    end = readme.index(END)
-    if end < start:
-        raise ValueError("README progress markers are out of order.")
+    pattern = (
+        re.escape(START_MARKER)
+        + r".*?"
+        + re.escape(END_MARKER)
+    )
 
-    updated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
-    updated = readme[:start] + render_section(
-        profile_count, repository_count, updated_at
-    ) + readme[end:]
+    updated_readme = re.sub(
+        pattern,
+        lambda _: new_section,
+        readme,
+        count=1,
+        flags=re.DOTALL
+    )
 
-    if updated != readme:
-        README.write_text(updated, encoding="utf-8")
-        print("README progress section updated.")
-    else:
-        print("README progress section already up to date.")
+    README.write_text(updated_readme, encoding="utf-8")
 
 
 def main():
-    repository_count = count_documented_problems()
-    print(f"Documented repository problems: {repository_count}")
+    print("Fetching LeetCode profile progress...")
 
-    try:
-        profile_count = fetch_profile_solved_count()
-    except ProgressFetchError as error:
-        # Do not touch the README: its last known-good profile value and timestamp
-        # are more trustworthy than a failed/partial response.
-        print(f"Unable to refresh LeetCode profile count: {error}", file=sys.stderr)
-        return 1
+    leetcode_total = fetch_leetcode_total()
 
-    print(f"LeetCode profile problems solved: {profile_count}")
-    update_readme(profile_count, repository_count)
-    return 0
+    print("Counting documented Java solutions...")
+
+    documented_total = count_documented_solutions()
+
+    print(f"LeetCode profile: {leetcode_total}")
+    print(f"Documented solutions: {documented_total}")
+
+    update_readme(leetcode_total, documented_total)
+
+    print("README.md updated successfully!")
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    try:
+        main()
+    except Exception as error:
+        print(f"ERROR: {error}", file=sys.stderr)
+        sys.exit(1)
