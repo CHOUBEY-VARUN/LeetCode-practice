@@ -85,7 +85,7 @@ Most solutions follow this structure:
 | **LeetCode profile** | **180** | Total solved problems on [my LeetCode profile](https://leetcode.com/u/VarunCode21/). |
 | **Documented solutions** | **227** | Problems with a committed Java solution in this repository. |
 
-*Last updated: 2026-11-26 13:43 UTC*
+*Last updated: 2026-11-27 11:08 UTC*
 
 [View all documented solutions](https://github.com/CHOUBEY-VARUN/LeetCode-practice)
 
